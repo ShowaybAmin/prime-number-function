@@ -24,7 +24,7 @@ if b < 2:
 
 else:
 
-	for p in range(2, b + 1):
+	for p in range(2, (b+1)/2 ):
 
 		_solution_()
 
