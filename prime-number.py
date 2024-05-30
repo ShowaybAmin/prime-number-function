@@ -6,7 +6,7 @@ def _solution_():
 
 	flag = True
 
-	for i in range(2, p):
+	for i in range(2, ((p//2)+1)):
 
 		if (p % i) == 0:
 
